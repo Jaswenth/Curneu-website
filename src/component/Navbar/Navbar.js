@@ -9,7 +9,7 @@ import "./Navbar.css";
         <div className="bgcolor">
             <nav className="navbar navbar-light bg-light">
             <a className="navbar-brand" href="#">
-            <img src={logo} width="230" className="position d-inline-block align-top" alt="" />
+            <img src={logo} width="250" className="position d-inline-block align-top" alt="" />
             </a>
             <section className="header_navbar">
             <a href className="navbar-item">Home</a>
