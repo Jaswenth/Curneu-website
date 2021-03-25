@@ -1,0 +1,36 @@
+.contact-us {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.title {
+    padding-bottom: 60px;
+}
+.social-icon {
+    padding: 60px 0 35px;
+}
+.aak{
+    color: #57cbcc;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.social-icon ul {
+    text-align: center;
+}
+#contact-submit {
+    border: 1px solid rgba(236,239,241,.07);
+    background: #57cbcc;
+    padding: 12px 0;
+    width: 100%;
+    margin: 0;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}

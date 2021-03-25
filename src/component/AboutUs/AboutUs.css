@@ -1,0 +1,30 @@
+.title h2 span {
+    color: #57cbcc;
+}
+.text-center {
+    text-align: center;
+}
+
+.about .block:hover {
+    background-color: #bce6e1;
+    color: #4f4f4f;
+}
+.border {
+    border-top: 2px solid rgba(236,239,241,.07);
+    height: 1px;
+    margin: 15px auto 0;
+    position: relative;
+    width: 30%;
+}
+.about .block {
+    background: #fff;
+    color: #4f4f4f;
+    padding: 30px;
+    border-radius: 20px;
+    transition: 0.5s all;
+    border-bottom: 2px solid transparent;
+    transition: .5s all;
+    border: 1px dotted;
+    margin-bottom: 20px;
+    transition: 0.5s all;
+}
